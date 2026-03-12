@@ -19,6 +19,9 @@ def punto1():
     plt.imshow(lienzo)
     plt.show()
 
+def punto2():
+    pass
+
 def punto3():
     imagen = plt.imread('resources/dawg.jpg')
     imagenNega = imp.negative(imagen)
